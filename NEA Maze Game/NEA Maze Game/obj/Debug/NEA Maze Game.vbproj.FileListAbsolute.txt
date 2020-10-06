@@ -1,0 +1,15 @@
+E:\NEA WORK - George Hampton\Project Files\In College Programming\NEA Maze Game\NEA Maze Game\obj\Debug\NEA Maze Game.vbprojAssemblyReference.cache
+E:\NEA WORK - George Hampton\Project Files\In College Programming\NEA Maze Game\NEA Maze Game\obj\Debug\NEA_Maze_Game.Resources.resources
+E:\NEA WORK - George Hampton\Project Files\In College Programming\NEA Maze Game\NEA Maze Game\obj\Debug\NEA Maze Game.vbproj.GenerateResource.cache
+E:\NEA WORK - George Hampton\Project Files\In College Programming\NEA Maze Game\NEA Maze Game\obj\Debug\NEA Maze Game.vbproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\obj\Debug\NEA Maze Game.vbprojAssemblyReference.cache
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\obj\Debug\NEA_Maze_Game.Resources.resources
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\obj\Debug\NEA Maze Game.vbproj.GenerateResource.cache
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\obj\Debug\NEA Maze Game.vbproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\bin\Debug\NEA Maze Game.exe.config
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\bin\Debug\NEA Maze Game.exe
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\bin\Debug\NEA Maze Game.pdb
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\bin\Debug\NEA Maze Game.xml
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\obj\Debug\NEA Maze Game.exe
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\obj\Debug\NEA Maze Game.xml
+C:\Users\georg\Desktop\NEA Maze Game\NEA Maze Game\obj\Debug\NEA Maze Game.pdb
